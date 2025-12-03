@@ -46,15 +46,21 @@ pip install -r requirements.txt
     ├── process.py
     └── split_data.py
     ```
-
-Run the following Python scripts sequentially to convert the dataset into NumPy format:
-```bash
-python split_data.py
-python process.py
-```
-
+  3.  **Data Run the following Python scripts sequentially to convert the dataset into NumPy format::**
+  
+      ```bash
+      python split_data.py
+      python process.py
+      ```
+    
+      The dataset and pre-trained model weights are available at the following link:
+    
+      ```text
+      Link: https://pan.baidu.com/s/1_rAJAqI95DGUEQzlP0p81A?pwd=as4i  Password: as4i
+      ```
 
 ## Run
+
 ```bash
 python train.py  
 ```
